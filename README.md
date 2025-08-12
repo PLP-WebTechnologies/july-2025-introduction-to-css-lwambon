@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RyEig_hB)
+
 # 🎨 Assignment: CSS Basics & The Box Model
 
 ## Overview
@@ -11,10 +12,10 @@ Your goal is to create a visually styled web page using only CSS. You will apply
 
 ## What You'll Practice
 
-* Connecting CSS to your HTML (external stylesheet)
-* Using basic CSS properties such as `color`, `font-size`, `margin`, `padding`, `border`, and `background`
-* Structuring your layout with awareness of how the Box Model influences spacing and dimensions
-* Writing clean and maintainable CSS selectors and rules
+- Connecting CSS to your HTML (external stylesheet)
+- Using basic CSS properties such as `color`, `font-size`, `margin`, `padding`, `border`, and `background`
+- Structuring your layout with awareness of how the Box Model influences spacing and dimensions
+- Writing clean and maintainable CSS selectors and rules
 
 ## Instructions
 
@@ -28,19 +29,19 @@ No JavaScript or external CSS libraries (like Bootstrap) should be used.
 
 Submit the following files:
 
-* `index.html`: A basic HTML page with structured content.
-* `styles.css`: Your external stylesheet containing all your CSS rules.
+- `index.html`: A basic HTML page with structured content.
+- `styles.css`: Your external stylesheet containing all your CSS rules.
 
 Both files should work together to showcase:
 
-* Proper use of selectors and basic styling properties
-* Clear implementation of the CSS Box Model
-* Consistent spacing, sizing, and layout styling
+- Proper use of selectors and basic styling properties
+- Clear implementation of the CSS Box Model
+- Consistent spacing, sizing, and layout styling
 
 ## Tips
 
-* Correct linkage of HTML and CSS files
-* Use of appropriate CSS selectors and properties
-* Demonstration of the Box Model through visual layout (clear use of margin, padding, and borders)
-* Readability and organization of CSS code (indentation, comments, spacing)
-* Overall appearance and clarity of styled content
+- Correct linkage of HTML and CSS files
+- Use of appropriate CSS selectors and properties
+- Demonstration of the Box Model through visual layout (clear use of margin, padding, and borders)
+- Readability and organization of CSS code (indentation, comments, spacing)
+- Overall appearance and clarity of styled content

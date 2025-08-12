@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f4f7fa;
+  color: #222;
+  line-height: 1.6;
+}
+
+header {
+  background: #36e05b;
+  color: #000;
+  padding: 1.4rem;
+  border-bottom: 0px solid #000;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+  margin-bottom: 1.1rem;
+  text-transform: uppercase;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  list-style: none;
+}
+
+nav ul li a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 8px 18px;
+  border-radius: 6px;
+  font-size: 2rem;
+  transition: background 0.2s;
+}
+
+nav ul li a:hover {
+  background: #36e05b;
+}
+
+main {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 32px;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(44, 62, 80, 0.08);
+}
+
+section {
+  margin-bottom: 40px;
+  padding: 24px;
+  border: 2px solid #d1d8e0;
+  border-radius: 12px;
+  background: #f7faff;
+}
+
+h2 {
+  color: #36e05b;
+  font-size: 1.7rem;
+  margin-bottom: 12px;
+  border-bottom: 2px solid #d1d8e0;
+  padding-bottom: 6px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.home-info,
+.about-info,
+.contact-info {
+  font-size: 1.1rem;
+  margin: 16px 0;
+  line-height: 1.7;
+  text-transform: capitalize;
+}
+
+.contact-form {
+  margin-top: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 20px;
+  background: #eaf0fb;
+  border-radius: 10px;
+  border: 1px solid #d1d8e0;
+}
+
+.contact-form label {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 10px;
+  border: 1px solid #b2bec3;
+  border-radius: 6px;
+  font-size: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 8px;
+}
+
+.contact-form button {
+  background: #36e05b;
+  color: #fff;
+  border: none;
+  padding: 12px 0;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 8px;
+  transition: background 0.2s;
+}
+
+.contact-form button:hover {
+  background: #36e05b;
+}
+
